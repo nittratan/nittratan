@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nittratan&label=Profile%20views&color=0e75b6&style=flat" alt="nittratan" /> </p>
 
-- 🌱Software Engineer
+- 🌱__Software Engineer__
 
 - 💬 Ask me about **Data Structure and Algorithms , Machine Learning , Web Development**
 
